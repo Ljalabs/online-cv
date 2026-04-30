@@ -134,32 +134,32 @@ certifications:
   title: Certifications
   list:
 
-    - name: Microsoft Certified: Azure Administrator Associate
+    - name: "Microsoft Certified: Azure Administrator Associate"
       start: 2023
       end: 2026
       organization: Microsoft
 
-    - name: Microsoft Certified: Windows Server Hybrid Administrator Associate
+    - name: "Microsoft Certified: Windows Server Hybrid Administrator Associate"
       start: 2024
       end: 2026
       organization: Microsoft
 
-    - name: Microsoft Certified: Azure Fundamentals
+    - name: "Microsoft Certified: Azure Fundamentals"
       start: 2021
       end:
       organization: Microsoft
 
-    - name: Microsoft Certified: Identity and Access Administrator Associate
+    - name: "Microsoft Certified: Identity and Access Administrator Associate"
       start: 2026
       end: 2027
       organization: Microsoft
 
-    - name: Microsoft 365 Certified: Teams Administrator Associate
+    - name: "Microsoft 365 Certified: Teams Administrator Associate"
       start: 2026
       end: 2027
       organization: Microsoft
 
-    - name: Microsoft 365 Certified: Endpoint Administrator Associate
+    - name: "Microsoft 365 Certified: Endpoint Administrator Associate"
       start: 2024
       end: 2025
       organization: Microsoft
