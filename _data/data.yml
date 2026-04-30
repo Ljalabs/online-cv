@@ -1,7 +1,7 @@
 sidebar:
   position: right
-  about: False
-  education: False
+  about: True
+  education: True
 
   name: Laurie Aldam
   tagline: Cloud & Infrastructure Engineer
@@ -122,13 +122,13 @@ projects:
 #     - name: Security & Access Control (MFA, Conditional Access, Zero Trust)
 #       level: 80%
 
-education:
-  title: Education
-  info:
-    - degree: Qualification
-      university: Institution Name
-      time: Year Completed
-      details: |
+# education:
+#   title: Education
+#   info:
+#     - degree: Qualification
+#       university: Institution Name
+#       time: Year Completed
+#       details: |
 
 certifications:
   title: Certifications
