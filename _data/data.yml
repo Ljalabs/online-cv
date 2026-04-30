@@ -1,7 +1,7 @@
 sidebar:
   position: right
   about: False
-  education: True
+  education: False
 
   name: Laurie Aldam
   tagline: Cloud & Infrastructure Engineer
@@ -10,7 +10,7 @@ sidebar:
   email: me@ljalabs.xyz
   phone: 07974 600 461
   timezone: Europe/London
-  website: https://ms.ljalabs.xyz/transcript
+  #website: https://ms.ljalabs.xyz/transcript
   linkedin: lauriealdam
   #github:
 
@@ -25,7 +25,7 @@ sidebar:
     info:
       - item: Technology & Cloud Engineering
       - item: Continuous Learning
-      - item: Problem Solving
+      - item: Health & Fitness
 
 career-profile:
   title: Profile
@@ -101,26 +101,26 @@ projects:
     - title: Hybrid Infrastructure Management
       tagline: "Supported and modernised hybrid Windows Server and Azure infrastructure"
 
-skills:
-  title: Skills & Expertise
-  toolset:
-    - name: Identity & Access Management (Entra ID, AD DS, SSO, SCIM)
-      level: 90%
+# skills:
+#   title: Skills & Expertise
+#   toolset:
+#     - name: Identity & Access Management (Entra ID, AD DS, SSO, SCIM)
+#       level: 90%
 
-    - name: Microsoft 365 & Modern Workplace
-      level: 90%
+#     - name: Microsoft 365 & Modern Workplace
+#       level: 90%
 
-    - name: Endpoint Management (Intune, Autopilot)
-      level: 85%
+#     - name: Endpoint Management (Intune, Autopilot)
+#       level: 85%
 
-    - name: Azure & Cloud Infrastructure
-      level: 85%
+#     - name: Azure & Cloud Infrastructure
+#       level: 85%
 
-    - name: Windows Server & Hybrid Infrastructure
-      level: 85%
+#     - name: Windows Server & Hybrid Infrastructure
+#       level: 85%
 
-    - name: Security & Access Control (MFA, Conditional Access, Zero Trust)
-      level: 80%
+#     - name: Security & Access Control (MFA, Conditional Access, Zero Trust)
+#       level: 80%
 
 education:
   title: Education
