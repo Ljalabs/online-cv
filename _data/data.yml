@@ -1,6 +1,6 @@
 sidebar:
   position: right
-  about: True
+  about: False
   education: True
 
   name: Laurie Aldam
@@ -15,11 +15,11 @@ sidebar:
   #github:
   location: Worthing, UK
 
-  languages:
-    title: Languages
-    info:
-      - idiom: English
-        level: Native
+  # languages:
+  #   title: Languages
+  #   info:
+  #     - idiom: English
+  #       level: Native
 
   interests:
     title: Interests
