@@ -9,7 +9,7 @@ sidebar:
 
   email: me@ljalabs.xyz
   phone: 07974 600 461
-  timezone: Europe/London
+  #timezone: Europe/London
   #website: https://ms.ljalabs.xyz/transcript
   linkedin: lauriealdam
   #github:
@@ -64,7 +64,7 @@ experiences:
         - Supported client systems and contributed to service delivery improvements
 
     - role: Infrastructure Support Analyst
-      time: March 2023 - April 2024
+      time: March 2023 - Jan 2024
       company: Compass Community Ltd
       details: |
         - Acted as escalation point for complex incidents across Windows Server, Active Directory, Microsoft 365, and networking
@@ -135,52 +135,52 @@ certifications:
   title: Certifications
   list:
 
-    - name: "Microsoft Certified: Azure Administrator Associate"
-      start: 2023
-      end: 2026
-      organization: Microsoft
-
-    - name: "Microsoft Certified: Windows Server Hybrid Administrator Associate"
-      start: 2024
-      end: 2026
-      organization: Microsoft
-
-    - name: "Microsoft Certified: Azure Fundamentals"
-      start: 2021
-      end:
-      organization: Microsoft
-
     - name: "Microsoft Certified: Identity and Access Administrator Associate"
       start: 2026
       end: 2027
-      organization: Microsoft
+      #organization: Microsoft
 
     - name: "Microsoft 365 Certified: Teams Administrator Associate"
       start: 2026
       end: 2027
-      organization: Microsoft
+      #organization: Microsoft
 
     - name: "Microsoft 365 Certified: Endpoint Administrator Associate"
       start: 2024
-      end: 2025
-      organization: Microsoft
+      end: 2027
+      #organization: Microsoft
+  
+    - name: "Microsoft Certified: Windows Server Hybrid Administrator Associate"
+      start: 2024
+      end: 2027
+      #organization: Microsoft
+      
+    - name: "Microsoft Certified: Azure Administrator Associate"
+      start: 2023
+      end: 2027
+      #organization: Microsoft
 
     - name: Cisco CCNA
       start: 2022
       end: 2025
-      organization: Cisco
+      #organization: Cisco
 
     - name: CompTIA Security+
       start: 2022
       end: 2025
-      organization: CompTIA
+      #organization: CompTIA
 
     - name: CompTIA Network+
       start: 2022
       end: 2025
-      organization: CompTIA
+      #organization: CompTIA
 
+    - name: "Microsoft Certified: Azure Fundamentals"
+      start: 2021
+      end:
+      #organization: Microsoft
+      
     - name: CompTIA A+
       start: 2021
       end: 2024
-      organization: CompTIA
+      #organization: CompTIA
